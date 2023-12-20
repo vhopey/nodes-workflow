@@ -1,3 +1,5 @@
+Simple nodes workflow task
+
 ## Technologies:
 
 - VueJS

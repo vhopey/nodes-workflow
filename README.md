@@ -1,4 +1,4 @@
-x## Technologies:
+## Technologies:
 
 - VueJS
 - Fabric JS (canvas library)
